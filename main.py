@@ -1,3 +1,6 @@
+"""
+coded by GaskmanTR
+"""
 import time
 from selenium import webdriver
 
